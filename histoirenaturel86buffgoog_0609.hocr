@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./histoirenaturel86buffgoog_0609.png"; bbox 0 0 777 1350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 128 1045 472 1113">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 128 1045 472 1113">
+     <span class='ocr_line' id='line_1_1' title="bbox 128 1045 472 1075; baseline -0.006 -11"><span class='ocrx_word' id='word_1_1' title='bbox 128 1045 188 1075; x_wconf 54' lang='lat' dir='ltr'>Figm</span> <span class='ocrx_word' id='word_1_2' title='bbox 201 1052 227 1064; x_wconf 71' lang='lat' dir='ltr'>LA</span> <span class='ocrx_word' id='word_1_3' title='bbox 237 1052 336 1064; x_wconf 71' lang='lat' dir='ltr'>Gunmuvu.</span> <span class='ocrx_word' id='word_1_4' title='bbox 351 1045 411 1068; x_wconf 67' lang='lat' dir='ltr'>(Aſtra</span> <span class='ocrx_word' id='word_1_5' title='bbox 419 1048 472 1071; x_wconf 74' lang='lat'>11:1⁷1)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 130 1078 451 1113; baseline 0.006 -17"><span class='ocrx_word' id='word_1_6' title='bbox 130 1078 222 1113; x_wconf 56' lang='lat' dir='ltr'>⁹¹5&#39;2&#39;u</span> <span class='ocrx_word' id='word_1_7' title='bbox 235 1086 303 1098; x_wconf 66' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_8' title='bbox 318 1081 388 1104; x_wconf 64' lang='grc' dir='ltr'>(Μῖνα</span> <span class='ocrx_word' id='word_1_9' title='bbox 395 1080 451 1106; x_wconf 77' lang='lat' dir='ltr'>Li-nn)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
